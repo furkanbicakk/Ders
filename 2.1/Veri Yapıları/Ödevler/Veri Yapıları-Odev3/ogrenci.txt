@@ -1,0 +1,4 @@
+1 ahmet keko 1
+2 ahmet dasd 3
+3 ahmet dsa 2
+4 ahmet as 4

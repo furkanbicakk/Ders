@@ -1,0 +1,139 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package odev6;
+
+import java.util.HashSet;
+
+
+class ChainDugum{
+    int anahtar, deger;
+    ChainDugum ileri;
+    ChainDugum(int anahtar, int deger){
+        this.anahtar=anahtar;
+        this.deger=deger;
+        ileri=null;
+        
+    }
+    
+}
+
+class ChainHash{
+    final int diziuzunlugu=10;
+    ChainDugum dizi[] = new ChainDugum[diziuzunlugu];
+    
+    int hash (int anahtar){
+        return anahtar%diziuzunlugu;
+    }
+    
+    void ekle(ChainDugum d){
+        int hash=hash(d.anahtar);
+        if (dizi[hash]==null){
+            dizi[hash]=d;
+        }else {
+            ChainDugum tmp= dizi[hash];
+            while(tmp.ileri != null){
+            tmp=tmp.ileri;
+        }
+            tmp.ileri=d;        
+        }
+    }
+    
+    
+    void ara( ChainDugum d){
+        int hash=hash(d.anahtar);
+        if (dizi[hash]==d) {
+            System.out.println(d.deger);
+        }else{
+            ChainDugum tmp=dizi[hash];
+            while(tmp != d){
+                System.out.println(tmp.deger+ " ");
+                tmp=tmp.ileri;
+            }
+            System.out.println(d.deger);
+        }
+    }
+}
+
+public class hash {
+    static void esitmi(int dizi[], int n){ //dizideki iki sayý toplamý 
+        for (int i = 0; i < dizi.length; i++) {
+            for (int j = i+1; j < dizi.length; j++) {
+                if (dizi[i]+dizi[j] == n) {
+                    System.out.println("TOPLAM MEVCUT VE SAYILAR : " + dizi[i] + "," + dizi[j]);
+                }
+            }
+        }
+        
+    }
+    
+    static boolean areAnagram(String str1, String str2)  //Anagram
+{  
+    
+    if (str1.length() != str2.length())  
+    {  
+        return false;  
+    }  
+  int deger = 0;  
+  for (int i = 0; i < str1.length(); i++)  
+    {   deger = deger ^ (int) str1.charAt(i);  
+        deger = deger ^ (int) str2.charAt(i);  
+    }  
+  return deger == 0;  
+  }  
+    
+     static boolean altKume(int arr1[], int arr2[], int m, int n) 
+    { 
+        HashSet<Integer> hset= new HashSet<>(); 
+          
+        
+        for(int i = 0; i < m; i++) 
+        { 
+            if(!hset.contains(arr1[i])) 
+                hset.add(arr1[i]); 
+        } 
+              
+        
+        for(int i = 0; i < n; i++) 
+        { 
+            if(!hset.contains(arr2[i])) 
+                return false; 
+        } 
+        return true; 
+    } 
+     
+     
+     public static void main(String[] args) {
+        ChainHash x = new ChainHash();
+        x.ekle(new ChainDugum (3,10));
+        x.ekle(new ChainDugum (1,60));
+        x.ekle(new ChainDugum (2,60));
+        x.ekle(new ChainDugum (3,20));
+        x.ekle(new ChainDugum (3,80));
+        x.ara(new ChainDugum(3,20));
+        
+        
+        
+        
+         int adizi [] = {1,3,5,7,8,9,11,12,13,15,16};
+       
+       
+      
+        
+        
+       //esitmi(adizi,20);
+       
+       
+      /*  System.out.println(areAnagram("ilhan","ilahn"));
+        
+        int arr1[] = {11, 1, 13, 21, 3, 7}; 
+        int arr2[] = {11, 3, 7, 1}; 
+          
+        int m = arr1.length; 
+        int n = arr2.length; 
+        
+        System.out.println(altKume(arr1, arr2, m, n));*/
+    }
+}

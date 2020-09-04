@@ -1,0 +1,21 @@
+2. Bir baðlý listede veri yapýlarý dersini alan öðrenci bilgileri tutulacaktýr. 
+Öðrencilerin numarasý(int), adý(String), vize(int) ve genel(int) sýnav bilgilerini tutan bir veri yapýsý tanýmlayarak aþaðýdaki iþlemleri yapan kodlarý yazýnýz?
+Ekleme
++	Baþtan ekleme 
++	Sona ekleme
++	Araya ekleme 
+Silme
++	Baþtan silme
++	Sondan silme
++	Ýstenen elemaný silme // Çalýþmýo
+Arama 
+-	Vizesi en yüksek olan öðrencinin bilgilerini gösteren metodu yazýnýz?
++	Bütün öðrenci bilgilerini gösteren bir metot yazýnýz?
++       Baðlý liste üzerinde dolaþarak öðrenci ortalamalarýný bulan ve ortalamaya göre geçenleri ve kalanlarý ayrý baðlý listelere yazan bir metot yazýnýz? 
+
+Teslim Tarihi: 22.10.2019
+NOT:Ödevlerinizi USB flash bellekte getirmeniz gerekmektedir. Kendi bilgisayarýnýz ile getirseniz bile internet baðlantýsý olmayacaktýr. 
+Ýnternet baðlantýsý tespit edilen ödevler sýfýr olarak deðerlendirilir. Laboratuavar süresince cep telefonu kullanmak yasaktýr. 
+Cep telefonu ile gelen öðrencilerin giriþte telefonlarý toplanarak lab boyunca bir yerde muhafaza edilecektir. 
+Ödev ile ilgili hazýrlanacak raporda bir kapak dosyasý(ödevin ne olduðu, adýnýz, numaranýz, ödev numarasý vb. bilgiler verilmelidir. 
+Raporlar  el yazýsý ile yazýlmalýdýr.)

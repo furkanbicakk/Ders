@@ -1,0 +1,14 @@
+Elimizde bir ilin plaka ve iladi, koordinat(longitude, latitude) bilgileri bulunmaktadýr. 
+Bu bilgiler bir iki arama aðacýnda tutulacaktýr. Plaka bilgilerine göre bir indisleme yapýlacaktýr. 
+
+a)  	+ Gerekli veri yapýsýný tanýmlayýnýz 
+b)	+ Ekleme, arama, silme, güncelleme iþlemlerini yapan metodu yazýnýz.
+c)	+ Aðacý preorder, inorder, posterder, level order gezinti yapan metotlarý yazýnýz?
+d)	+ Aðacýn ikili arama aðacý olup olmadýðýný kontrol eden metotlarý yazýnýz?
+e)	+ Aðacýn dengeli olup olmadýðýný kontrol eden metodu yazýnýz?
+
+BONUS SORUSU: Aðaçtaki illeri ikili arama aðacýndan okuyarak harita üzerinde gösteren metodu yazýnýz?
+Teslim Tarihi: 10.12.2019
+
+
+

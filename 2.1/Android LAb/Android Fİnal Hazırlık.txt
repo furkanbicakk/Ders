@@ -1,0 +1,25 @@
+1-Ýntent Ýþlemleri
+a)Sayfalar Arasý intent ile geçme;
+
+Intent intent= new Intent(MainActivity.this, MainActivity2.class);
+startActivity(intent);
+
+2-Toast mesaj nesnesi
+
+Toast.makeText(getApplicationContext(), "Yazýlacak Mesaj", Toast.LENGTH_LONG).show();
+//Toast.LENGTH_LONG yerine 2000 girersek 2 sn gösterecektir.
+
+
+Toast toast = Toast.makeText(getApplicationContext(), "Bilgilendirme mesajý", Toast.LENGTH_LONG);
+toast.show();
+
+3- Ýmage Button Tasarlama
+
+<ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/imgbtnResim"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:src="@mipmap/ic_launcher" //butonumuza resim eklediðimiz kýsým
+    android:layout_marginTop="78dp" />

@@ -1,0 +1,125 @@
+package yýðýn;
+class dugum{
+    int içerik;
+
+    public dugum(int içerik){
+        this.içerik = içerik;
+    }
+}
+public class yýgýn {
+    dugum dizi[];
+    int es;
+    public yýgýn(int N){
+        dizi = new dugum[N];
+        es = 0;
+    }
+
+    boolean yýgýnBos(){
+        if (es == 0)
+            return true;
+        else
+            return false;
+    }
+    
+    void yerDegistir(int k, int yeni){
+        int eski = dizi[k].içerik;
+        dizi[k].içerik = yeni;
+        if(eski>yeni){
+            asagiIn(k);
+        }
+        else{
+            yukarýCik(k);
+        }
+    }
+    
+    void yukarýCik(int no){
+        int ustdal = (no-1)/2;
+        while (ustdal >= 0 && dizi[ustdal].içerik < dizi[no].içerik){
+            yerDegistir(ustdal,no);
+            no = ustdal;
+            ustdal = (no-1)/2;
+        }
+    }
+    void asagiIn(int no){
+        int sol = 2*no + 1;
+        int sag = 2*no + 2;
+        
+        while ((sol<es && dizi[no].içerik < dizi[sol].içerik) || (sag<es && dizi[no].içerik < dizi[sag].içerik)) {  
+            
+            if (sag >= es || dizi[sol].içerik > dizi[sag].içerik) {
+                yerDegistir(no, sol);
+                no = sol;
+            }
+            else{
+                yerDegistir(no, sag);
+                no = sag;
+            }
+            sol = 2*no + 1;
+            sag = 2*no + 2;
+        }
+    }
+    void ekle(dugum yeni){
+        es++;
+        dizi[es-1] = yeni;
+        yukarýCik(es-1);
+    }
+    
+    dugum sil(){
+        dugum tmp = dizi[0];
+        dizi[0] = dizi[es-1];
+        asagiIn(0);
+        es--;
+        return tmp;
+    }
+    
+
+    boolean minheapmi(int dizix[]){
+        for (int i = 0; i < dizix.length; i++) {
+            
+            int sol = 2*i+1;
+            int sag = 2*i+2;
+          
+            if (sol <= es && (dizix[i] < dizix[sol]) || sag <= es && (dizix[i] < dizix[sag])) {
+                
+                  System.out.println("HEAP");
+            }
+             
+        }
+
+         return false;
+         
+        
+    }
+    
+   
+  
+    
+    public static void main(String[] args) {
+        dugum d1 = new dugum(1);
+        dugum d2 = new dugum(4);
+        dugum d3 = new dugum(5);
+        dugum d4 = new dugum(9);
+        dugum d5 = new dugum(7);
+        dugum d6 = new dugum(8);
+        dugum d7 = new dugum(11);
+        dugum d8 = new dugum(12);
+        dugum d9 = new dugum(14);
+        dugum d10 = new dugum(10);
+        dugum d11 = new dugum(15);
+        
+
+        yýgýn y = new yýgýn(20);
+        
+        y.ekle(d1);
+        y.ekle(d2);
+        y.ekle(d3);
+        y.ekle(d4);
+        y.ekle(d5);
+        
+        int adizi [] = {1,4,5,9,7,8,11,12,14,10,15};
+        y.minheapmi(adizi);
+    
+       
+
+    }
+}

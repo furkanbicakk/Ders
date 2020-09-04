@@ -1,0 +1,11 @@
+Bir grafiksel arayüz ile Word programýndaki undo (geri alma) ve redo(ileri alma) iþlemlerinin gerçekleþtirildiði bir kelime iþlem programý yapmanýz istenmektedir. 
+Bu amaçla string bilgileri tutan bir yýðýt yapýsý ekleme(), silme(), bosmu(), tepe(), vb. metotlarý ile oluþturulmalýdýr. 
+Text alanýna girilen kelimeler word’te olduðu gibi ileri ve geri alýnabilmelidir. 
+Arayüz bir adet textarea, redo(ileri alma), undo(geri alma) ve kaydet butonlarýndan oluþmalýdýr. 
+Bu amaçla iki yýðýt kullanýlabilir. 1. yýðýt yeni kelimeleri alýrken eðer herhangi bir geri alma iþlemi var ise iþlemler 1. Yýðýttan 2. Yýðýta eklenmelidir. 
+Ýleri alma iþleminde ise iþlemler 2. Yýðýttan alýnýp tekrar 1. Yýðýta eklenmelidir. 
+Kaydet butonuna týklandýðýnda ise artýk veri kaydedildiði için bu kýsma kadar yazýlanlar ileri veya geri alýnamayacaktýr. 
+Gerekli veri yapýlarýný ve arayüzü oluþturarak kodlamalarý yapýnýz.
+
+
+Teslim Tarihi: 12.11.2019

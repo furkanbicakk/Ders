@@ -1,0 +1,10 @@
+1.Çok büyük basamaklı sayılar bağlı liste ile tutulmak isteniyor. Bağlı listenin her bir düğümü bir rakamı ifade etmektedir. Rakamlar ters sırada eklenecektir. 
+Dolayısıyla bağlı listenin ilk elemanı sayının birler basamağını tutmaktadır. 
+Buna göre;
+a)İlgili veri yapısını tanımlayarak bağlı listeye (rakam ekleme), (silme), (basamak sayısı bulma) ve (bağlı listede tutulan sayıyı String olarak döndüren metotlarını yazınız?
+b)Kendisine parametre olarak iki bağlı liste alan ve iki bağlı listenin tuttuğu sayıların toplamını yine bir bağlı listede döndüren metodu yazınız?
+Örneğin birinci bağlı liste  7-->1-->6  ile gösterilmiş ise tuttuğu sayı 617’dir. 
+İkinci bağlı liste 5-->9-->2 ile gösterilmiş ise tutulan sayı 295’tir.  
+Hazırlayacağınız metot (7-->1-->6)+(5-->9-->2) toplamını yaparken 617+295 toplamını basamak basamak yapacak ve çıktı olarak (9-->1-->2) bağlı listesini döndürecektir. 
+c) Kendisine parametre olarak bir bağlı liste alan ve bağlı listenin tuttuğu sayının palindrom olup olmadığını döndüren metodu yazınız?
+NOT: Palindrom normal ve tersten yazılışı aynı olan sayılardır. Örneğin 7-->3-->2-->3-->7 bağlı listesi 73237 sayısını gösterip tersten yazılışı da aynı sayıdır.

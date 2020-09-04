@@ -1,0 +1,26 @@
+30 puanlýk 10 soru test 70 puanlýk 5 soru klasik kod.
+
+30 Puanlýk kýsýmdan
+-BFS
+-DFS
+-Çift yönlü baðlý liste kodu (Ekleme)
+-Stack yapýsý (Kod okuma, stack son hali nedir)
+-Hashing
+-AVL agacý döndürme
+-Posfix sonucu nedir?
+
+70 Puanlýk kýsýmdan
+-Ýki dizi verilmiþ bu iki dizi birbirine eþ mi?
+dizi1 = 1,5,3,4,2
+dizi2 = 5,3,2,1,4 
+Çýktý = evet.
+
+-Kendisine parametre olarak verilmiþ bir dizide k'nýncý elemaný döndüren
+metodu yazýn.
+-Kendisine parametre olarak bir agaç alan ve agaçta düðüm yapraksa,kökse,aradüðümse
+bunlarýn bilgilerini veren kodu yaz.
+-Veri yapýlarý kitabýndaki polinom sorusu
+Stack ile yapýlmasý isteniyordu. (25puandý 4 þýklýydý)
+-O(n) zamanda bir kod dizimi isteniyordu dizi ile ilgili.
+-Hatýrlamýyorum.
+

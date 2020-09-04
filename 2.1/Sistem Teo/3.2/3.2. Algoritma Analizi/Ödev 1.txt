@@ -1,0 +1,5 @@
+En az 8 farklý algoritma tasarým stratejisine göre yazýlmýþ
+8 ayrý algoritmanýn sözde kodunu, karmaþýklýklarýný, 
+bilgisayarda kodlanýp çalýþtýrýlarak 
+en iyi-en kötü-ortalama durum senaryolarý sonucunda oluþan 
+süre tüketimlerini bularak veriniz.

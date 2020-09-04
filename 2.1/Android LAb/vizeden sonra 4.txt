@@ -1,0 +1,38 @@
+				SON DERS ANDROÝD
+04.5: recyclerView
+
+link: https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view/index.html?index=..%2F..android-training#0
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <TextView
+        android:id="@+id/word"
+        style="@style/word_title" />
+
+</LinearLayout>
+
+__________________________________________________________________________________________________________________________________
+					DATABASE 10.01
+https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html?index=..%2F..android-training#0
+
+DB_SQL Lite (DatabaseHelper extends SQLiteOpenHelper)
+
+XML;
+Name_______________________
+Surname ____________________
+Marks _______________________
+id ___________________________
+
+4 buton
+
+Tablodaki tüm verileri çeken metot;
+public Cursor getAllData(){
+SQLiteDatabase db = this.getWritableDataBase();
+Cursor res = db. rawQuery(“select * from ” + TABLE_NAME, null);
+}
+
+örnek: android sqlite  codebind.com

@@ -1,0 +1,10 @@
+Proje Nasýl Kopyalanýr?
+Kaynak:https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/appendix/appendix-utilities/appendix-utilities.html
+____________________________________________________
+Ekran Geçiþi:
+Kaynak: https://codelabs.developers.google.com/codelabs/android-training-activity-lifecycle-and-state/index.html?index=..%2F..android-training#0
+___________________________________________________________________________________________________________________________________________________
+
+https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/index.html?index=..%2F..android-training#2
+
+7. þeye kadar anlattý.

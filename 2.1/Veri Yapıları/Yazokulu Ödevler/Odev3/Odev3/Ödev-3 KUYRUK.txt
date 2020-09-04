@@ -1,0 +1,31 @@
+Bir PC ye bağlı yazıcıda çıktı alırken PC den gönderilen belgeler yazıcı kuyruğunda birikmektedir. 
+PC belgeleri bu kuyruğa ekler, yazıcı ise işi bittiğinde bu kuyruktan sırasıyla bir belge alır ve yazdırır. 
+Sizden bu sürecin “ dairesel kuyruk ” veri yapısı ile kodlanması istenmektedir. Aşağıda kısıtlar ve istenenler listelenmektedir.
+
+? Yazıcı kuyruğunda en fazla 20 belge biriktirilebilmektedir ve bu değer program test edilirken değiştirilebilir (kapasite=20).
+
+? Yazıcıya belge ekleme ve çıkarma işlemlerini simule edecek yapılar kodunuza dahil edilmelidir. 
+
+Ekleme dosyada tutulan hayali belgelerin belli hızda (örneğin 4sn) yazıcıya gönderilmesiyle simule edilebilir.
+
+? Belge çıkarma ise yazıcı bastırma hızını belirleyebileceğiniz bir parametre yardımıyla ayarlanabilir. 
+
+Örneğin dakikada 100 sayfa basabilen bir yazıcıya gönderilen 10 sayfalık bir dokuman basılmaya başlandıktan 6 saniye sonra kuyruktan çıkarılmalıdır.
+ 
+Hız parametreleri kullanıcıdan istenecektir.
+
+Belge özellikleri dosyadan okunacaktır. Yazıcıya gönderilen belgelerin özellikleri şu şekilde olmalıdır
+
+•	Belge adı
+•	Boyutu
+•	Sayfa sayısı
+•	Belgenin sahibi (kisi türünde bir class)
+?	Ad
+?	Soyad
+?	Kullanıcı adı
+?	eposta
+
+NOT: Ödev teslim tarihi 23.07.2019’dur. Ödevlerinizi flash bellek ile getirmeniz ve laboratuvardaki bilgisayarı kullanmanız gerekmektedir. 
+Raporda kodlarınız el ile yazılmış olmalı ve rapor kapak sayfası (Ödev bilgisi, öğrenci no, öğrenci adı, ders adı, sorumlusu, ödev haftası vb.) olmalıdır. 
+Laboratuvarda cep telefonu ile girmeyiniz. Cep telefonunuzu kapalı konuma getirip görevlilere teslim etmeniz gerekmektedir. 
+

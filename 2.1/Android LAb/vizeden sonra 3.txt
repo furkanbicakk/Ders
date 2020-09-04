@@ -1,0 +1,3 @@
+resimli buton atama iþlemi
+klavyeden sadece sayýlarýn gelmesi olayý
+inputType:"number"

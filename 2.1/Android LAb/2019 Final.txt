@@ -1,0 +1,17 @@
+1.soru
+Gps konum açma kodunu yazýnýz (MainActvity)
+
+2.Soru
+Uygulamayý yan çevirince bilgiler kaybolamadan yan durmasý.
+
+3.Soru
+Xml sorusu AppbarLayout a bak yanda üç çizgi var basýnca biþiþler gelio.
+
+4.Soru
+Manifest dosyasýndan isim deðiþtirme sorusu.
+
+5.Soru
+Slide show ile resim kaydýrma (Main Activity kodu)
+
+NOT: Database iþlemlerinden soru gelmedi.
+

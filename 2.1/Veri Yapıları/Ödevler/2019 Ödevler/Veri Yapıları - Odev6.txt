@@ -1,0 +1,14 @@
+Soru-1: 
++ Tam sayýlarý tutan bir min Heap yapýsý tanýmlayarak ekleme, silme iþlemlerini gerçekleþtiren kodu yazýnýz?
+- Bu min Heap yapýsýný kullanarak farklý uzunlukta M tane sýralý listeyi sýralý olarak O(nlgn) karmaþýklýðýnda birleþtiren programý yazýnýz?
++ Oluþturduðunuz min-heap’i O(n) zamanda max-heap’e dönüþtüren metodu yazýnýz?
++ Parametre olarak bir dizi alan ve dizinin min-heap olup olmadýðýný true veya false olarak döndüren metodu yazýnýz?
+
+Soru-2: 
++ Elinizde sýralý olmayan bir dizi bulunmaktadýr. Bu dizide elemanlarý toplamý verilen bir deðere eþit olan eleman çiftlerini O(n)zamanda bulan metodu yazýnýz?
++ Kendisine parametre olarak iki dizgi alan ve bu iki dizginin anagram olup olmadýðýný O(n) zamanda bulan metodu yazýnýz? 
+  NOT: Anagram, bir sözcüðün veya sözcük grubunun harflerinin deðiþik düzenle baþka bir sözcüðü veya sözcük grubunu oluþturmasýdýr. 
++ Verilen bir dizinin ikinci bir dizinin alt kümesi olup olmadýðýný Hash kullanarak bulunuz?
+d) Hash için çakýþma çözme tekniklerinden doðrusal sýnama ve zincir hash’i gerçekleþtirerek ekleme ve arama iþlemlerini yapýnýz?
+
+Teslim Tarihi: 17.12.2019

@@ -1,0 +1,10 @@
+1.Soru butona bastýkca sayac artan gibi bir soruydu sadece
+MainActivity kodu isteniyordu.
+
+2.Soru Uygulama giriþ ekraný tasarla Xml kodu.
+
+3. Soru bir buton bir textview resmi var bunun xml tasarla.
+
+4.Soru arayüz sorusu þu buton ne iþe yarýyor vs gibi.
+
+5.Soru

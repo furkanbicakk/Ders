@@ -1,0 +1,17 @@
+Bir  matris üzerinde tutulan bir labirent için verilen bir hücreden hedef bir hücreye en kýsa yolu bulan algoritmayý kuyruk veri yapýsý kullanarak bulunuz? 
+Labirentte 1 deðerleri yolu gösterirken, engeller 0 ile ifade edilmiþtir.  
+Örneðin eðer baþlangýç hücresi: (0,0) ve hedef=(7,5) verilirse en kýsa yol 12 olarak bulunur. 
+
+1	1	1	1	1	0	0	1	1	1
+0	1	1	1	1	1	0	1	0	1
+0	0	1	0	1	1	1	0	0	1
+1	0	1	1	1	0	1	1	0	1	
+0	0	0	1	0	0	0	1	1	1
+1	0	1	1	1	0	0	1	1	0
+0	0	0	0	1	0	0	1	0	1
+0	1	1	1	1	1	1	1	0	0
+1	1	1	1	1	0	0	1	1	1
+0	0	1	0	0	1	1	0	0	1  
+	
+Problemi gerçekleþtirmek için kuyruk yapýsý ve Önce enine arama (Breadth first search) kullanýlabilir.
+NOT: Satranç üzerinde en kýsa yolu görsel olarak gösteren öðrencilere ekstra puan verilecektir. 

@@ -1,0 +1,7 @@
+1.Soru Rekürans fonksiyon sorusu.
+2.Soru Þekil vermiþ düzlemselmidir neden açýkla ve çiz.
+3.Soru Ýspat sorusu
+4.Soru inorder yazým sorusuydu ifade vermiþ p q lu bunu inorder sýrasýný yaz
+agacý çiz
+5.Soru Master Teoremi ile karmaþýklýk bulma sorusu.
+ 

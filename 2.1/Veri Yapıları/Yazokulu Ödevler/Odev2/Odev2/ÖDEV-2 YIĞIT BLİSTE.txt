@@ -1,0 +1,21 @@
+﻿1.-N uzunluktaki bir dizi üzerinde iki tane yığıt yapısı kurulmak istenmektedir. 
+Y adlı yığıt dizisinin Y[0] elemanı birinci yığıt için, Y[N-1] elemanı da ikinci Yığıt için G/Ç uçlarıdır. 
+İki yığıta konulacak toplam eleman sayısı N olup ilgili gözleri iki yığıt tarafından da boş olduğu sürece kullanılabilir. 
+Yığıtın dolu olması için tüm gözlerin dolu olması gerekir. Bir yığıtın boşalttığı bellek gözünü diğer yığıt kullanabilir. 
+Bu yapıdaki Yığıt için gerekli veri yapısını tanımlayarak Yığıt işlemlerini gerçekleştiren kodları yazınız.  
+2.-Bir odemeler.txt dosyasında aşağıdaki bilgiler tutulmaktadır. 
+Ali kitaplar için 50TL ödedi. 
+Davut 15TL ile elbise aldı.
+Şeyma cep telefonu için 2000TL olan ödemeyi kredi kartı ile yaptı.
+...........................
+...........................
+...........................
+Yukarıdaki gibi verilerin tutulduğu bir dosyada isimler satırın ilk kelimesidir. Fakat alınan malzeme için ödenen miktar cümlede farklı yerlerde bulunabilmektedir. 
+Satır satır okuma yapıp parse işlemi ile çift yönlü bir bağlı listenin her bir düğümünde isim ve ücret bilgilerini tutan veri yapısını tanımlayarak, 
+bu bağlı listeye ekleme işlemini sıralı yapan kodu yazınız?  
+
+
+
+NOT: Ödev teslim tarihi 16.07.2019’dur. Ödevlerinizi flash bellek ile getirmeniz ve laboratuvardaki bilgisayarı kullanmanız gerekmektedir. 
+Raporda kodlarınız el ile yazılmış olmalı ve rapor kapak sayfası (Ödev bilgisi, öğrenci no, öğrenci adı, ders adı, sorumlusu, ödev haftası vb.) olmalıdır. 
+Laboratuvarda cep telefonu ile girmeyiniz. Cep telefonunuzu kapalı konuma getirip görevlilere teslim etmeniz gerekmektedir. 

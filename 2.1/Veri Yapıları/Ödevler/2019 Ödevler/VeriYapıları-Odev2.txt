@@ -1,0 +1,27 @@
+ogrenci.txt” isimli bir dosyada öðrencilerin numarasý, adý, soyadý, sýnýfý bulunmaktadýr."ders.txt" dosyasýnda ise derskodu adi ve sinifi bulunmaktadýr. 
+Öðrenci ve ders bilgileri aþaðýdaki gibi bir yapýda tek yönlü bir baðlý liste ile tutulacaktýr. 
+
+Ogr1 -> ogr2 -> ogr3 -> NULL
+ |   	  |        |
+ v    	  v 	   v
+ders1   ders1     ders2
+ |   	  |        |
+ v        v 	   v
+ders2  ders3     ders4
+ |   	 |         |
+ v    	 v  	   v
+NULL    NULL       NULL
+
+Yukarýdaki listede öðr1'e ders1 ve ders2 eklenmiþtir. Ayný þekilde ogr2 ders1 ve ders3’ü almýþtýr. Buna göre aþaðýdaki iþlemleri yapan kodlarý yazýnýz?
+
+a)Veri  yapýsýný tanýmlayarak “ogrenci.txt” dosyasýndan okunan öðrenci  bilgilerini öðrenci listesine yerleþtiren metodu yazýnýz?
+b)“ders.txt” dosyasýndan  dersleri okuyarak öðrenci sýnýfý ve ders sýnýfý ayný olan öðrencilere ilgili dersi ekleyen metodu yazýnýz?
+c)Kendisine parametre olarak bir öðrenci alan ve bu öðrenci baðlý listede var ise öðrencinin derslerini listeleyen bir metot yazýnýz?
+d)Her öðrencinin dersini listeleyen bir metot yazýnýz?
+
+Teslim Tarihi: 05.11.2019
+NOT:Ödevlerinizi USB flash bellekte getirmeniz gerekmektedir. Kendi bilgisayarýnýz ile getirseniz bile internet baðlantýsý olmayacaktýr. 
+Ýnternet baðlantýsý tespit edilen ödevler sýfýr olarak deðerlendirilir. Laboratuavar süresince cep telefonu kullanmak yasaktýr. 
+Cep telefonu ile gelen öðrencilerin giriþte telefonlarý toplanarak lab boyunca bir yerde muhafaza edilecektir. 
+Ödev ile ilgili hazýrlanacak raporda bir kapak dosyasý(ödevin ne olduðu, adýnýz, numaranýz, ödev numarasý vb. bilgiler verilmelidir. 
+Raporlar  el yazýsý ile yazýlmalýdýr.)

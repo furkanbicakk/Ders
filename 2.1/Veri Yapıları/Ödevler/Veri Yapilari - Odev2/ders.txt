@@ -1,0 +1,14 @@
+FİZ-101 Fizik-1 1
+MAT-161 Matematik-1 1
+BMÜ-546 Algo2 1
+BMÜ-111 AlgoritmaveProgramlama-1 1
+BMÜ-231 SayısalTasarım 2
+MAT-205 LineerCebir 2
+BMÜ-333 Mikroişlemciler 3
+BMÜ-329 VeritabanıSistemleri 3
+BMÜ-329 TestDers3 3
+BMÜ-325 ProgramlamaDilleri 3
+BMÜ-329 Testders3-2 3
+BMÜ-495 İşHukuku 4
+BMÜ-425 İnternetProgramlama 4
+BMÜ-439 MeslekiUygulama-2 4

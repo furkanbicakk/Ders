@@ -1,0 +1,9 @@
+uygulama açýlýp kapandýkdan sonra tekrar kaldýðý yerden devam etme olayý.
+
+Kaynak: https://codelabs.developers.google.com/codelabs/android-training-adding-settings-to-app/index.html?index=..%2F..android-training#0
+_________________________________________________________________________
+mPreferences = getSharedPreferces(sharedPrefFile, MODE_PRIVATE);
+
+res dosyasýnýn altýna
+xml dosyasý oluþtur
+xml dosyasýna prefercensen adýnda .xml dosyasý oluþtur.

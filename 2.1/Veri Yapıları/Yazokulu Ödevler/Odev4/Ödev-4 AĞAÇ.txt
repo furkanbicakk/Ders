@@ -1,0 +1,12 @@
+Bir ikili arama ağacında veri yapıları dersini alan öğrencilerin numarası, ismi, vize ve final notu tutulacaktır. +
+İndisleme işlemi numaraya göre yapılmaktadır. Gerekli veri yapısını tanımlayarak +ekleme, +arama, +silme, +dolaşım (preorder,inorder,postorder), 
++maksimum ve +minimum numaralı öğrenciyi bulma metotlarını yazınız? 
+Ayrıca aşağıdaki metotları sınıfınıza ekleyiniz?
+-	Ağaçtaki öğrenci bilgilerini göstermek için seviye tabanlı bir dolaşım metodu yazınız?(Her seviyedeki öğrencilerin numaraları gösterilecektir.)+
+-	Ağacın ikili arama ağacı olup olmadığını kontrol eden bir metot yazınız?+
+-	Ağacın dengeli bir ağaç olup olmadığını kontrol eden metodu yazınız? +
+
+
+NOT: Ödev teslim tarihi 29.07.2019 pazartesi günüdür. Ödevlerinizi flash bellek ile getirmeniz ve laboratuvardaki bilgisayarı kullanmanız gerekmektedir. 
+Raporda kodlarınız el ile yazılmış olmalı ve rapor kapak sayfası (Ödev bilgisi, öğrenci no, öğrenci adı, ders adı, sorumlusu, ödev haftası vb.) olmalıdır. 
+Laboratuvarda cep telefonu ile girmeyiniz. Cep telefonunuzu kapalı konuma getirip görevlilere teslim etmeniz gerekmektedir. 

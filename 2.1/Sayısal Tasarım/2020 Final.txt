@@ -1,0 +1,9 @@
+4 Soru soruldu...
+
+1.Soru 19 18 17 16 15 þeklinde geri sayan devreyi tasarlayýn.
+
+2.Soru T tipi FF verilip durum diyagramý çýkartma ve þeyini çizme.
+
+3.Soru X-OR NAND-OR biþey-OR larý muxlarla yeniden tasarla.
+
+4.Soru Ve veya NAND kapýlarý devresi verilmiþ en sadec hali isteniyordu.

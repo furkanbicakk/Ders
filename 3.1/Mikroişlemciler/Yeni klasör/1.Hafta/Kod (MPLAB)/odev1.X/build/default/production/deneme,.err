@@ -1,0 +1,6 @@
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 1 : Found directive in column 1. (list)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 4 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 82 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 86 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 90 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\MERT\MPLABXPROJECTS\DENEME.X\DENEME,.ASM 107 : Found label after column 1. (DON)

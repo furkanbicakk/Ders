@@ -1,0 +1,10 @@
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 3 : Found directive in column 1. (list)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 6 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 18 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 20 : Found opcode in column 1. (nop)
+Warning[203] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 21 : Found opcode in column 1. (goto)
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 69 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 73 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 90 : Found label after column 1. (DON)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV1.X\ODEV1.ASM 160 : Found directive in column 1. (END)

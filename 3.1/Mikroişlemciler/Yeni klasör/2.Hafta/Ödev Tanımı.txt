@@ -1,0 +1,3 @@
+5x7 dot matrix üzerinde bir yýlan oyunu yapýlacaktýr. 
+Yýlan boyutu 1x3 (yani yýlan boyutu 3 nokta ) olacaktýr. 
+RA butonlarýndan 4 tanesi ile yýlan sola,saða,yukarý aþaðý hareket edecektir.

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>4_RA_But_B_Led</name>
+            <creation-uuid>a8b3fc45-7c0a-40cd-9c81-a28cda6a2dfc</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions/>
+            <cpp-extensions/>
+            <header-extensions/>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../../../../Program Files (x86)/Microchip/MPLABX/v5.25/mpasmx/LKR</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

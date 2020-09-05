@@ -1,0 +1,136 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Sun Nov 03 13:35:17 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x0001e4
+                   .cinit    romdata   0x0000f2    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/ODEV2.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000f3      
+                            0x002007    0x002007      
+            245 out of 8454 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   A0.SAG   0x0000b2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                 A1.ASAGI   0x0000c2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                A2.YUKARI   0x0000d2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                   A3.SOL   0x0000e2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+               ASAGIKAYMA   0x000015    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                    BASLA   0x000094    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                BASLANGIC   0x0000a3    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             DIKEYEDONDUR   0x00001e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                   DONGU1   0x000008    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                  GECIKME   0x000002    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                SAGAKAYMA   0x000012    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                SOLAKAYMA   0x00001b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             YATAYADONDUR   0x000054    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+              YUKARIKAYMA   0x000018    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0009   0x000009    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_000B   0x00000b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_002E   0x00002e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0030   0x000030    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0032   0x000032    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0035   0x000035    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0037   0x000037    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0039   0x000039    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_003C   0x00003c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_003E   0x00003e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0040   0x000040    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0043   0x000043    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0045   0x000045    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0047   0x000047    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004A   0x00004a    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004C   0x00004c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004E   0x00004e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0060   0x000060    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0062   0x000062    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0064   0x000064    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0067   0x000067    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0069   0x000069    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_006B   0x00006b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_006E   0x00006e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0070   0x000070    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0072   0x000072    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0075   0x000075    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0077   0x000077    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0079   0x000079    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_007C   0x00007c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_007E   0x00007e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0080   0x000080    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0083   0x000083    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0085   0x000085    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0087   0x000087    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008A   0x00008a    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008C   0x00008c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008E   0x00008e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  GECIKME   0x000002    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                   DONGU1   0x000008    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0009   0x000009    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_000B   0x00000b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                SAGAKAYMA   0x000012    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+               ASAGIKAYMA   0x000015    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+              YUKARIKAYMA   0x000018    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                SOLAKAYMA   0x00001b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             DIKEYEDONDUR   0x00001e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_002E   0x00002e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0030   0x000030    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0032   0x000032    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0035   0x000035    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0037   0x000037    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0039   0x000039    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_003C   0x00003c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_003E   0x00003e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0040   0x000040    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0043   0x000043    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0045   0x000045    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0047   0x000047    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004A   0x00004a    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004C   0x00004c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_004E   0x00004e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             YATAYADONDUR   0x000054    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0060   0x000060    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0062   0x000062    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0064   0x000064    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0067   0x000067    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0069   0x000069    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_006B   0x00006b    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_006E   0x00006e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0070   0x000070    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0072   0x000072    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0075   0x000075    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0077   0x000077    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0079   0x000079    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_007C   0x00007c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_007E   0x00007e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0080   0x000080    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0083   0x000083    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0085   0x000085    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_0087   0x000087    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008A   0x00008a    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008C   0x00008c    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+             _.org_0_008E   0x00008e    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                    BASLA   0x000094    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                BASLANGIC   0x0000a3    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                   A0.SAG   0x0000b2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                 A1.ASAGI   0x0000c2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                A2.YUKARI   0x0000d2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+                   A3.SOL   0x0000e2    program     static C:\Users\Mert\Google Drive\Ders Ýçerikleri ve Çalýþmalar\Bölüm Dersleri\Bilgisayar Mühendisliði\3.1. Mikroiþlemciler\a.ÖDEVLER\2.Hafta\Kod (MPLAB)\odev2.X\odev2.asm
+
+

@@ -1,0 +1,15 @@
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 3 : Found directive in column 1. (list)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 6 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 18 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 20 : Found opcode in column 1. (nop)
+Warning[203] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 21 : Found opcode in column 1. (goto)
+Warning[207] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 36 : Found label after column 1. (DONGU1)
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 209 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 213 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 217 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 221 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 269 : Using default destination of 1 (file).
+Message[305] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 294 : Using default destination of 1 (file).
+Message[305] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 320 : Using default destination of 1 (file).
+Message[305] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 345 : Using default destination of 1 (file).
+Warning[205] C:\USERS\MERT\MPLABXPROJECTS\ODEV2.2.X\ODEV2.2.ASM 361 : Found directive in column 1. (END)

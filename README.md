@@ -12,19 +12,19 @@
 
 - 2.1 Dersler
 
-> Sayısal Tasarım
+> Sayısal Tasarım (2020 Final Soruları)
 
 > Sitem Teorisi
 
-> Veri Yapıları 
+> Veri Yapıları (2020 Final Soruları - 2020 Quiz ve Ödevler)
 
 > Proje Yönetimi
 
 > Lineer Cebir
 
-> Ayrık Matematik
+> Ayrık Matematik (2019 Vize - 2020 Final Soruları)
 
-> Android Lab.
+> Android Lab. (2019 Vize - 2020 Final Soruları)
 
 - 2.2 Dersler
 

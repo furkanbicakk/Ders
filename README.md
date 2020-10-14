@@ -32,7 +32,13 @@
 
 - 3.1 Dersler
 
->Mikroişlemciler
+> Mikroişlemciler
+
+> Programlama Dilleri Not
+
+> Biçimsile Diler Ve Otomata Not
+
+> Yapay Zeka Not
 
 - 3.2 Dersler
 

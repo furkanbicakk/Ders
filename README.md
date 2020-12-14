@@ -30,8 +30,8 @@
 
 > Sayısal İşaret İşleme
 
-- 3.1 Dersler
-
+- 3.1 Dersler [GitHub Pages](https://github.com/furkanbicakk/Ders/tree/master/3.1).
+ 
 > Mikroişlemciler
 
 > Programlama Dilleri Not
